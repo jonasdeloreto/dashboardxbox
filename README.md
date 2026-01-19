@@ -8,5 +8,5 @@ Este projeto tem como objetivo a criação de um **dashboard de vendas no Excel*
 - Facilitar a visualização de indicadores-chave (KPIs)
 - Apoiar a tomada de decisão gerencial
 
-## 🗂 Estrutura do Projeto
+
 
